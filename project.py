@@ -624,7 +624,6 @@ class jumperEnemy(PhysicalObject):
 		self.rect.y = y_location
 
 		# Movement variables
-
 		self.dx = 0
 		self.dy = 0
 		self.horizontalTopSpeed = 15
@@ -1388,7 +1387,7 @@ def main():
 
 						elif event.type == KEYUP:
 
-							if event.key == K_w:
+							if event.key == K_SPACE:
 								data.player.control("Jump Released", data)
 
 							elif event.key == K_d:
