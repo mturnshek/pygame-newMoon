@@ -1373,6 +1373,9 @@ def main():
 							elif event.key == K_SPACE:
 								data.player.control("Jump", data)
 
+							elif event.key == K_w:
+								data.player.control("Jump", data)
+
 							elif event.key == K_m:
 								data.player.control("Shoot", data)
 
@@ -1388,6 +1391,9 @@ def main():
 						elif event.type == KEYUP:
 
 							if event.key == K_SPACE:
+								data.player.control("Jump Released", data)
+
+							if event.key == K_w:
 								data.player.control("Jump Released", data)
 
 							elif event.key == K_d:
