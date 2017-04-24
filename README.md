@@ -23,7 +23,7 @@ Right -> d
 
 Down (Fastfall) -> s
 
-Jump -> Spacebar
+Jump -> Spacebar or W
 
 Shoot -> M
 
