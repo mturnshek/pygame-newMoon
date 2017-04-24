@@ -1,6 +1,8 @@
 # pygame-newMoon
 Arcade-style with pygame
 
+Run as far as you can while destroying enemies for the most points!
+
 Written in 2013 for CMU's 15-122
 
 ## Installation
