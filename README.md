@@ -19,6 +19,8 @@ Then, run the game with
 
 If you're using a keyboard, the controls are:
 
+Switch Terrain -> a or d on the menu screen
+
 Left -> a
 
 Right -> d
