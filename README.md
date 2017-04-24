@@ -1,5 +1,5 @@
-# pygame_newMoon
-Arcade pygame
+# pygame-newMoon
+Arcade-style with pygame
 
 ## Installation
 
