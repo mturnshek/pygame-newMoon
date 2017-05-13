@@ -3,7 +3,7 @@ Arcade-style with pygame
 
 Run as far as you can while destroying enemies for the most points!
 
-Written in 2013 for CMU's 15-112
+Written in 2013 for CMU's 15-112 ([video](https://www.youtube.com/watch?v=foljGGaCLPw))
 
 ## Installation
 
